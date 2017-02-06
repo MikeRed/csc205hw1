@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 6c187e0cf71347941a63ef5379b3d95b
+timeCreated: 1486180765
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - winUI: {fileID: 1047274931310962, guid: 5e71e3df67ffbe34f8ce62439729e4d9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

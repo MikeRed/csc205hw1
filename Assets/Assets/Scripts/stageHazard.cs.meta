@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ff42752dd409aaf40a67f2fe495f1be2
+timeCreated: 1486243359
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rb2d: {instanceID: 0}
+  - playerSpawn: {fileID: 1731362537929426, guid: aa027fcc675b2fb4ba7ba02c41e4a086,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
